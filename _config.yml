@@ -9,16 +9,14 @@ owner: Aaron Monger
 first_published: 2020 # if migrating another site, the year of your first publish
 email: amonger@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://aaronandalana.wedding" # the base hostname & protocol for your site
 
 google_analytics: UA-79603429-1
 
 social:
-  #twitter: https://twitter.com/menzenski
   #github: https://github.com/
   #linkedin-square: https://linkedin.com/in/<username>
   facebook-official: https://facebook.com/alana.h4
-  #google-plus-square: https://plus.google.com/u/0/+<username>
   #email: /contact/
   #flickr:
   instagram: https://instagram.com/benjamin_the_doggo

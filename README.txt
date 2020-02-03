@@ -1,3 +1,6 @@
+wedding theme modified by me from https://github.com/menzenski/wedding-site
+
+his readme is below
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 A Jekyll port of the Spectral theme by HTML5 UP.
 Find the original non-jekyll theme at: http://html5up.net/

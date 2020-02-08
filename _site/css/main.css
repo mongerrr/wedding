@@ -814,8 +814,8 @@ body.is-mobile.landing #page-wrapper { background: none; }
 body.is-mobile.landing #banner, body.is-mobile.landing .wrapper.style4 { background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg"); background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg"); background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg"); background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg"); background-position: center center; background-repeat: no-repeat; background-size: cover; }
 body.is-mobile.landing #footer { background-color: #1d242a; }
 
-.map { height: 720px; padding-top: 0; padding-bottom: 2.0em; }
+.map { height: 75vh; padding-top: 0; padding-bottom: 2.0em; }
 
-@media (max-width: 720px) { .map { height: 100%; } }
+@media (max-width: 1920px) { .map { height: 75vh; } }
 /*disable custom maps scrolling behaviour*/
 .scrolloff { pointer-events: none; }

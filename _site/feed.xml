@@ -4,10 +4,10 @@
     <title>Aaron and Alana</title>
     <description>June 12, 2020
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 08 Feb 2020 16:07:25 +1100</pubDate>
-    <lastBuildDate>Sat, 08 Feb 2020 16:07:25 +1100</lastBuildDate>
+    <link>https://aaronandalana.wedding/</link>
+    <atom:link href="https://aaronandalana.wedding/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 08 Feb 2020 18:28:26 +1100</pubDate>
+    <lastBuildDate>Sat, 08 Feb 2020 18:28:26 +1100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
   </channel>

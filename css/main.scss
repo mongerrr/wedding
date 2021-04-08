@@ -218,7 +218,7 @@ h1 {
 
 	header {
 		p {
-			color: _palette(fg-light);
+			color: _palette(fg);
 			position: relative;
 			top: -0.25em;
 		}
@@ -1367,7 +1367,7 @@ h1 {
 
 	body.is-menu-visible {
 		#page-wrapper {
-			opacity: 0.35;
+			opacity: 0.95;
 
 			&:before {
 				display: block;
@@ -1813,7 +1813,7 @@ h1 {
 		}
 
 		#footer {
-			background-color: darken(transparentize(_palette(bg), 0.1), 8);
+			background-color: darken(transparentize(_palette(bg), 1), 8);
 		}
 	}
 
@@ -1832,7 +1832,7 @@ h1 {
 			}
 
 			#footer {
-				background-color: darken(_palette(bg), 8);
+				background-color: darken(_palette(bg), 0);
 			}
 		}
 	}
